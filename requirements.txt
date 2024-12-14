@@ -1,0 +1,7 @@
+streamlit
+textblob
+pandas
+altair
+vaderSentiment
+PyPDF2
+python-docx
